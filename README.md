@@ -1,4 +1,8 @@
-Olá, meu nome é Luiz Paulo! 👋
+<h1>Olá, seja bem vindo!</h1>
+
+<hr>
+
+Meu nome é Luiz Paulo! 👋
 
 
 - 📚 Atualmente estou aprendendo e praticando Front-End
