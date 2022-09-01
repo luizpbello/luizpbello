@@ -7,7 +7,7 @@ Meu nome é Luiz Paulo! 👋
 
 - 📚 Atualmente estou aprendendo e praticando Front-End
 - 🌱 Estudando também sobre Back-End
-- 📧 Meu contato por email é: luizpaulopinto25@gmail.com
+- 📧 Meu contato por email é: luizpbello2@gmail.com
 
 
 
