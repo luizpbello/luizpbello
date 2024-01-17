@@ -1,13 +1,3 @@
-<h1>Olá, seja bem vindo!</h1>
-
-<hr>
-
-Meu nome é Luiz Paulo! 👋
-
-- 📧 Meu contato por email é: luizpbello2@gmail.com
-
-
-
  <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
